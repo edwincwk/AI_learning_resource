@@ -1,4 +1,4 @@
-| Book | Name	Author(s) |
+| Book | Author(s) |
 |------|----------------|
 | Advanced_Guide_To_Python3_Programming	| John Hunt |
 | Data_Analysis-statistical_and_computational_methods	| Siegmund Brandt |
